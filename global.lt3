@@ -1,0 +1,30 @@
+
+.gituser Hal9000
+.github  private
+
+.author  Hal Fulton
+.email   rubyhacker@gmail.com
+.license Ruby
+
+. default ruby version?
+. where to find gems for hotfix
+
+.comment
+Read global first, then project (overrides)
+Comments in gemspec: ruby -v, rvm, bundler, rubygems, ...
+REPL for this?
+projectist mixin
+
+Utilities:
+  - check staleness? README.md, gemspec, Gemfile?, ...
+  - edit global config
+  - edit project
+  - git status
+  - git normal checkin
+  - bump version
+  - rebuild README
+  - build gemspec
+  - build gem (dep ^^)
+  - push gem (dep ^^)
+  - hotfix
+.end

@@ -1,0 +1,11 @@
+. from global config:
+.   gituser
+.   author
+.   email
+
+
+
+.repo myrepo
+.gem  mygem MyClass
+
+

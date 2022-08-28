@@ -1,0 +1,5 @@
+author   Hal E. Fulton
+email    rubyhacker@gmail.com
+license  Ruby
+gituser  Hal9000
+github   private

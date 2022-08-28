@@ -1,0 +1,11 @@
+# assumes gh installed and authenticated
+# gh repo create --public USER/REPONAME
+
+touch README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:Hal9000/projectist.git
+git push origin master
+
+
